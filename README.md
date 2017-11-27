@@ -2,7 +2,7 @@
 ## Introduction
 This project is a trace ball game. This trace ball game will display the player on the screen as a blue square and an enemy NPC will also be displayed using a red square. the red square will then follow the blue square until they touch. When the two squares have touched they will be reset back to their original spawning location and then the game will start again. When the player is hit three times the game is display a game over screen and the game will end.
 
-![trace-ball-flow-chart]()
+![trace-ball-flow-chart](https://raw.githubusercontent.com/HORNETJOE/Project01/master/Project1_Flowchart.jpg)
 
 ## Process of implementation Algorithm
 the process of implementing the algorithm into the program was simple to do. the algorithm for the program was to get the users coordinates so that the NPC would go to the player’s position to make it look like the NPC was chasing the player. 
