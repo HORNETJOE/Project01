@@ -14,3 +14,6 @@ The Debugging process was difficult because the IDE I had to use had no debuggin
 Coding standards and needed when coding because it makes the code more understandable for other users looking the code or just updates and malignance of the code for the original creator. These standards can be shown through comments made on the code talking about what does what.
 ## Evaluation: How debugging process helped
 the debugging process helped with fixing the code because it allowed me to see the errors in the code and correct them to keep the code working.
+
+Example of the IDE that was used during the development
+![Repl-IT](https://github.com/HORNETJOE/Project02/blob/master/repl-it.PNG)
