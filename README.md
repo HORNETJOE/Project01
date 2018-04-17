@@ -1,8 +1,15 @@
 # Design Documentation
 ## Introduction
 This project is a trace ball game. This trace ball game will display the player on the screen as a blue square and an enemy NPC will also be displayed using a red square. the red square will then follow the blue square until they touch. When the two squares have touched they will be reset back to their original spawning location and then the game will start again. When the player is hit three times the game is display a game over screen and the game will end.
-## Aim for the project
+
+## Aims for the project
 The main aim for the project is to create an application that has you playing as a blue square on the screen being chased by a red square in a small box on screen. When the red square hits the player they game is reset with the player losing a life. once this happens three times the game is over.
+* Create a canvas for the player to move around in
+* Crate a suitable and sensable control scheme that the player can use to control their block.
+
+
+
+
 ## Flow Chart
 ![trace-ball-flow-chart](https://raw.githubusercontent.com/HORNETJOE/Project01/master/Project1_Flowchart.jpg)
 
