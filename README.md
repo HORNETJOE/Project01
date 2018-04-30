@@ -6,23 +6,23 @@ This project is a trace ball game. This trace ball game will display the player 
 The main aim for the project is to create an application that has you playing as a blue square on the screen being chased by a red square in a small box on screen. When the red square hits the player they game is reset with the player losing a life. once this happens three times the game is over.
 
 ### aims
-aims are goals to aim for when creating the project to gove a sense of direction and a sense of achivment.
+aims are goals to aim for when creating the project to give a sense of direction and a sense of achievement.
 * Create a canvas for the player to move around in
 
-* Create a suitable and sensable control scheme that the player can use to control their block.
+* Create a suitable and sensible control scheme that the player can use to control their block.
 
 * Create AI for the enemy block to follow the player across the canvas.
 
-* Create a systems that allows the player three changes of getting hit by the enemy block before a game over.
+* Create a system that allows the player three chances of getting hit by the enemy block before a game over.
 
 ### objectives
-objectives are similer to aims but are diffrent becuase objectives are bigger tasks made up of smaller aims. So completting multible aims will complete are bigger objective.
+objectives are similar to aims but are different because objectives are bigger tasks made up of smaller aims. So completing multiple aims will complete are bigger objective.
 
-* Give the player the ability to move their charector around the canvas
+* Give the player the ability to move their character around the canvas
 
 * Create the sense that the enemy AI in the game is chasing the player using their position on the canvas
 
-* Crate a fun and entertaining gameplay mechanic that the player will enjoy
+* Create a fun and entertaining gameplay mechanic that the player will enjoy
 
 * uses coordinates to create the main function of the game.
 
