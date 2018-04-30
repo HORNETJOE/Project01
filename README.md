@@ -9,11 +9,11 @@ The main aim for the project is to create an application that has you playing as
 aims are goals to aim for when creating the project to gove a sense of direction and a sense of achivment.
 * Create a canvas for the player to move around in
 
-* Crate a suitable and sensable control scheme that the player can use to control their block.
+* Create a suitable and sensable control scheme that the player can use to control their block.
 
-* Crate AI for the enemy block to follow the player across the canvas.
+* Create AI for the enemy block to follow the player across the canvas.
 
-* Crate a systems that allows the player three changes of getting hit by the enemy block before a game over.
+* Create a systems that allows the player three changes of getting hit by the enemy block before a game over.
 
 ### objectives
 objectives are similer to aims but are diffrent becuase objectives are bigger tasks made up of smaller aims. So completting multible aims will complete are bigger objective.
