@@ -2,8 +2,11 @@
 ## Introduction
 This project is a trace ball game. This trace ball game will display the player on the screen as a blue square and an enemy NPC will also be displayed using a red square. the red square will then follow the blue square until they touch. When the two squares have touched they will be reset back to their original spawning location and then the game will start again. When the player is hit three times the game is display a game over screen and the game will end.
 
-## Aims for the project
+## Aims and objectives for the project
 The main aim for the project is to create an application that has you playing as a blue square on the screen being chased by a red square in a small box on screen. When the red square hits the player they game is reset with the player losing a life. once this happens three times the game is over.
+
+### aims
+aims are goals to aim for when creating the project to gove a sense of direction and a sense of achivment.
 * Create a canvas for the player to move around in
 
 * Crate a suitable and sensable control scheme that the player can use to control their block.
@@ -11,6 +14,17 @@ The main aim for the project is to create an application that has you playing as
 * Crate AI for the enemy block to follow the player across the canvas.
 
 * Crate a systems that allows the player three changes of getting hit by the enemy block before a game over.
+
+### objectives
+objectives are similer to aims but are diffrent becuase objectives are bigger tasks made up of smaller aims. So completting multible aims will complete are bigger objective.
+
+* Give the player the ability to move their charector around the canvas
+
+* Create the sense that the enemy AI in the game is chasing the player using their position on the canvas
+
+* Crate a fun and entertaining gameplay mechanic that the player will enjoy
+
+* uses coordinates to create the main function of the game.
 
 
 ## Flow Chart
